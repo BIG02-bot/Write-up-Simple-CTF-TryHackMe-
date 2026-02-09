@@ -1,5 +1,9 @@
 # Write-up-Simple-CTF-TryHackMe-
+
 ⚠️ Este write-up tem fins educacionais e não contém spoilers de flags para preservar a integridade da plataforma.
+
+![Uploading image.png…]()
+
 
 🎯 Objetivo
 
