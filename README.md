@@ -137,20 +137,10 @@ Esta máquina cobre o fluxo completo de um **pentest Linux básico**:
 
 ---
 
-## 🚀 Próximos Passos
-
-Para evolução em segurança ofensiva:
-
-* Realizar máquinas **Intermediate** no TryHackMe
-* Iniciar trilha **Hack The Box**
-* Estudar **Linux Privilege Escalation** em profundidade
-
----
-
 ## 👨‍💻 Autor
 
 **Mateus Papaes**
-Cybersecurity • Pentest 
+Cybersecurity  
 
 <p align="center">
   <sub>Write‑up educacional — sem divulgação de flags.</sub>
